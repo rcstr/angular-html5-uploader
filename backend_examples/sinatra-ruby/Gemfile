@@ -1,0 +1,6 @@
+source :rubygems
+
+group :server do
+  gem "sinatra"
+  gem "rack-cors"
+end
